@@ -6,7 +6,7 @@ About me...
 
 </br><img src="https://img.kr.news.samsung.com/kr/wp-content/uploads/2021/01/%E2%98%85ssafy_logo.jpg" height="100px" width="177px">  
 SSAFY 10th, Gwamgju Campus  
--Trainee (~2023.7)  
+-SW Developer Trainee (2023.7~)  
 </br>  
 
 </br><img src="https://res.cloudinary.com/linkareer/image/fetch/f_auto,q_50/https://api.linkareer.com/attachments/233699" height="100px" width="157px">  

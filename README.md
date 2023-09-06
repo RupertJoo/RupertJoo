@@ -20,7 +20,7 @@ HYWTL
 -Wind Engineer (2019.1 ~ 2023.4)  
 </br>  
 
-</br><img src="https://i.namu.wiki/i/QykmyoI2XB_INuTwGiGuG2UHymxMalcZUiUenrHGXLqL1HbB0D6hRDTWCAYlGKkcJrzklUIXO2t-B5nCd0-5-EorPaDTThMuo7zaiczLcFjNdtngN-c0eqaWjpz5IEFKZgXqvjJEclkShyJfwMj1YA.webp" height="100px" width="100px"> 
+</br><img src="https://i.namu.wiki/i/7oiIYDBMw6IPNtETDlFgoWWY0y30zgQtbC075pwWnDWdojWxkp2Xnpyg2jjAXVHGwMN4jZ4izyd3jP0ylBe33w.webp" height="100px" width="100px"> 
  
 ROKAF 1st Fighter Wing  
 -Annunition Manager (2014.8 ~ 2016.8)

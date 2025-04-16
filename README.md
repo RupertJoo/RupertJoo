@@ -4,7 +4,8 @@
 About me...  
 |||
 |:---:|---|
-|<img src="https://www.ziorobot.com/images/logo_zio_robot.png" height="auto" width="100">|ZIOROBOT </br>-SW Engineer (2024.07~)|
+|<img src="http://www.altumpartners.co.kr/images/ci/img-ci.png" height="auto" width="100">|ALTUM PARTNERS </br>-SW Engineer (2025.04~)|
+|<img src="https://www.ziorobot.com/images/logo_zio_robot.png" height="auto" width="100">|ZIOROBOT </br>-SW Engineer (2024.07~2025.03)|
 |<img src="https://img.kr.news.samsung.com/kr/wp-content/uploads/2021/01/%E2%98%85ssafy_logo.jpg" height="autopx" width="100px">|SSAFY 10th, Gwangju Campus</br>-SW Developer Trainee (2023.07~2024.06)|
 |<img src="https://res.cloudinary.com/linkareer/image/fetch/f_auto,q_50/https://api.linkareer.com/attachments/233699" height="autopx" width="100px">|HYWTL</br>-Wind Engineer (2019.01 ~ 2023.04)  |
 |<img src="https://i.namu.wiki/i/yYqum59i5kDD2Aqi6X-E3m5voAJT3gBY23-cZobQlDM-b1P3u5x-sZ0Ol8q1hao7Qc6gjoEZzUXtKBHVr-JmnSW2Ru50m7t_hvwYLG4u4qLttV_7iYY3xXoCfJ2O26_6YUZtBgLbk07MmpOyWawgig.webp" height="auto" width="100px">|ROKAF 1st Fighter Wing</br> -Ammunition Manager (2014.08 ~ 2016.08)|

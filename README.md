@@ -9,7 +9,7 @@ About me...
 |<img src="https://img.kr.news.samsung.com/kr/wp-content/uploads/2021/01/%E2%98%85ssafy_logo.jpg" height="autopx" width="100px">|SSAFY 10th, Gwangju Campus</br>-SW Developer Trainee (2023.07~2024.06)|
 |<img src="https://res.cloudinary.com/linkareer/image/fetch/f_auto,q_50/https://api.linkareer.com/attachments/233699" height="autopx" width="100px">|HYWTL</br>-Wind Engineer (2019.01 ~ 2023.04)  |
 |<img src="https://i.namu.wiki/i/ekJibq-HbY06ZzykP8ISCaOBS6_0hEnJaKvQPj1eub_T8ybth32ajCvFHZxKApdejtXmtGUjKNGQaLTVvmVxNvFimCoxsXioz0AfH1IWI9a-8Fo85ldQGY1jtc-KX22fYzsQwvVk-z0i9dVmRTV6i5IvsPByUyyU4vFB6q06ofI.webp" height="auto" width="100px">|ROKAF 1st Fighter Wing</br> -Ammunition Manager (2014.08 ~ 2016.08)|
-|<img src="https://www.hanyang.ac.kr/html-repositories/images/custom/introduction/img_hy0104_02_0205.png" height="auto" width="100px">|Hanyang University ERICA Campus</br> -Majored Mechanical Engineering(2013.03 ~ 2019.02)|
+|<img src="https://www.hanyang.ac.kr/html-repositories/images/custom/introduction/img_hy0104_02_0208.png" height="auto" width="100px">|Hanyang University ERICA Campus</br> -Majored Mechanical Engineering(2013.03 ~ 2019.02)|
 
 <!--
 </br><img src="https://img.kr.news.samsung.com/kr/wp-content/uploads/2021/01/%E2%98%85ssafy_logo.jpg" height="100px" width="177px">  

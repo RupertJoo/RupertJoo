@@ -2,7 +2,7 @@
 ##### HBFS, Implement your needs!!  
   
 About me...  
-|||
+|GROUP|POSITION|
 |:---:|---|
 |<img src="http://www.altumpartners.co.kr/images/ci/img-ci.png" height="auto" width="100">|ALTUM PARTNERS </br>-SW Engineer (2025.04~)|
 |<img src="https://www.ziorobot.com/images/logo_zio_robot.png" height="auto" width="100">|ZIOROBOT </br>-SW Engineer (2024.07~2025.03)|
